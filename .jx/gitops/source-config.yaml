@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: jx-golang
     - name: jx-jenkins
     scheduler: in-repo
   slack:
